@@ -1,0 +1,14 @@
+@startmindmap
+* Hauptmenü
+** Hintergrundbild
+** Auswahl
+*** Medikamentehinzufügen (sub)
+**** Medikamentehinzufügen (Windows/View)
+*** Medikamenteentfernen (sub)
+**** Medikamenteentfernen (Windows/View)
+** Datum/Uhrzeit (sub)
+*** Datum/Uhrzeit (Windows/View)
+* Variabeln
+** Laden
+** Entladen
+@endmindmap
