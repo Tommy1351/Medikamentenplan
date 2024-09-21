@@ -1,0 +1,15 @@
+@startwbs
+* Datenbank
+** Inhalt
+*** Name
+*** Dosis
+*** Bestand (Packung)
+*** Bestand (Register)
+*** Morgens
+*** Mittags
+*** Abends
+*** Nachts
+*** Nachbestellung
+** Hinzufügen
+** Entfernen
+@endwbs

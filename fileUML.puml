@@ -1,0 +1,27 @@
+@startuml
+
+map SCRFile {
+    Resulozion => 1920x1080
+    Fullscreen => true
+    Color => 256
+}
+
+map SFile {
+
+}
+
+map VFile {
+    
+}
+
+map MainMenu {
+    
+}
+map Hauptfile {
+    Screen *-> SCRFile
+    Settings *-> SFile
+    Variabeln *-> VFile
+    Mainmenu *-> MainMenu
+}
+
+@enduml

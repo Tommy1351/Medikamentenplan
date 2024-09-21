@@ -1,0 +1,22 @@
+@startuml
+
+map AMenu {
+    MedikamentehinzufügenS => Sub
+    MedikamentehinzufügenV => View
+    MedikamenteentfernenS => Sub
+    MedikamenteentfernenV => View
+}
+
+map SMenu {
+    Auflösung => Settings
+    Color => Settings
+}
+map hauptemnü {
+    Auswahl *-> AMenu
+    Datum/UhrzeitS => Sub
+    Datum/UhrzeitV => View
+    Sound => Sub
+    Settings *-> SMenu
+    }
+
+@enduml

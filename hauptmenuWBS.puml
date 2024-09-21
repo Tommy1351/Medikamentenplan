@@ -1,4 +1,4 @@
-@startmindmap
+@startwbs
 * Hauptmenü
 ** Hintergrundbild
 ** Auswahl
@@ -8,7 +8,8 @@
 **** Medikamenteentfernen (Windows/View)
 ** Datum/Uhrzeit (sub)
 *** Datum/Uhrzeit (Windows/View)
-* Variabeln
-** Laden
-** Entladen
-@endmindmap
+** Sound (Sub)
+** Settings (Menu)
+*** Auflösung
+*** Color
+@endwbs

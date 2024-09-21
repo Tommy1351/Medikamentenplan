@@ -1,0 +1,15 @@
+@startwbs
+* Variabeln
+** Name
+*** Medname$ (Medikamentenname)
+*** Dosis$ (Med Dosis)
+*** Morgens$ (Anzahl Morgens)
+*** Mittags$ (Anzahl Mittags)
+*** Abends$ (Anzahl Abends)
+*** Nachts$ (Anzahl Nachts)
+*** NBestell$ (Nachbestellung)
+**** MPack$ (Menge Packung)
+**** MReg$ (Menge Register)
+** Laden
+** Entladen
+@endwbs
